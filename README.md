@@ -85,3 +85,27 @@ Open `Sentiment_Analysis.ipynb` to reproduce:
 
 - Ensure Hugging Face `transformers` and `datasets` are installed.  
 - GPU recommended for training (mixed precision supported).
+
+## ⚖️ Intellectual Property Notice
+
+**Patent Pending:**  
+A patent application has been filed for the sentiment analysis system developed in this repository.  
+The application number will be updated once officially assigned.
+
+---
+
+### Note
+This repository contains **demonstration code only**.  
+The following components remain **proprietary and confidential** under patent protection:
+
+- Dataset cleaning & balancing methodology  
+- Filtering rules and preprocessing heuristics  
+- Hyperparameter tuning strategy  
+- Trained model weights  
+- Cross-domain evaluation heuristics (Amazon → Yelp)  
+
+---
+
+### Commercial Use
+Commercial usage of this methodology may require **licensing**.  
+For inquiries, contact: **sumithshetty014@gmail.com**
